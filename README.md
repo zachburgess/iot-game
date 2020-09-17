@@ -1,5 +1,5 @@
 # roller-blade-tracker
-A fun project I'm working on with @emmaburgess\
+A fun collab between @zachburgess and @emmaburgess\
 Designing a device that tracks my rollerblading movements.
 
 Specifically, I'm interested in knowing:
